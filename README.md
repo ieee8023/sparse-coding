@@ -1,6 +1,8 @@
 # Comparison of sparse coding algorithms
 
-Authors: Joseph Paul Cohen, Shawn Tan, and Giancarlo Kerg. (Much of the code comes from other sources)
+Authors: Joseph Paul Cohen, Shawn Tan, Giancarlo Kerg, and Yoshua Bengio.
+ 
+(Much of the code comes from other sources)
 
 Here there are implementations of the following methods:
 
